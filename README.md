@@ -22,11 +22,9 @@ https://www.npmjs.com/package/inquirer#questions
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Run 'node index' in your terminal and enter information into the prompts. Screenshot below. Once all prompts have been popluated, a README file should be generated.
 
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![prompttext](readmegenscreen.png)
 
 ## Credits
 
