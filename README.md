@@ -1,43 +1,42 @@
-# README File Generator!
+# TESTPROJECTTITLE
 
-## Description
+  ## Description
+  
+  This is where you would describe your project!
+  
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  
+  ## Installation
+  
+  This is where you would describe how to install the project
+  
+  ## Usage
+  
+  This is where you explain how to use the project. How does it function, etc?
+  
+  ## License
+  
+  MIT License
+  (https://opensource.org/licenses/MIT)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+  ## How to Contribute
+  
+  Follow the CC!
+  
+  ## Tests
+  
+  Here is how you would test this project/application:
 
-This projects auto-generates a README file via the command line from user inputs so you can have a professional-looking README in no time!
+  ## Questions
 
-## Table of Contents 
+  GitHub Username: branchwag
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+  https://github.com/branchwag
 
-## Installation
-
-This project uses Node.js!
-You can install Node here:  
-https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/  
-
-Inquirer is also used, which can be installed here:  
-https://www.npmjs.com/package/inquirer#questions
-
-## Usage
-
-Run 'node index' in your terminal and enter information into the prompts. Screenshot below. Once all prompts have been popluated, a README file should be generated.
-
-![prompttext](readmegenscreen.png)
-
-## Credits
-
-Columbia University Coding Bootcamp
-
-## License
-
-MIT License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) (https://opensource.org/licenses/MIT)
-
-## How to Contribute
-
-Follow the [Contributor Covenant](https://www.contributor-covenant.org/)!
-
-## Tests
-
-Enter a free text string for each input. Ensure that each item is being treated as a variable and place appropriately within the README!
+  Feel free to also reach out to me via email at branchwag@me.com.
