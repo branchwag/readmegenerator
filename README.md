@@ -25,6 +25,7 @@ https://www.npmjs.com/package/inquirer#questions
 Run 'node index' in your terminal and enter information into the prompts. Screenshot below. Once all prompts have been popluated, a README file should be generated.
 
 ![prompttext](readmegenscreen.png)
+![samplereadme](samplereadme.png)
 
 ## Credits
 
